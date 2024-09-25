@@ -1,0 +1,4 @@
+selenium==4.5.0
+requests==2.25.1
+main.py
+requirements.txt
